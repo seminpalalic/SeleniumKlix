@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bafb6b27-e768-407f-a99f-1ed4dea8686e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZtAWVvdryjUeJJZOv4gXrd3kpx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Gherkin" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/Features" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber java.Scenario: Register, login and save titles from basketball page.">
+    <configuration name="Scenario: Register, login and save titles from basketball page." type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/java/Features/Klix.feature" />
+      <option name="GLUE" value="Steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="KlixSemin" />
+      <option name="NAME_FILTER" value="^Register\, login and save titles from basketball page\.$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Register\, login and save titles from basketball page\.$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Register, login and save titles from basketball page." />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Register, login and save titles from specific page." type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/java/Features/Klix.feature" />
+      <option name="GLUE" value="Steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="KlixSemin" />
+      <option name="NAME_FILTER" value="^Register\, login and save titles from specific page\.$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Register\, login and save titles from specific page\.$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Register, login and save titles from specific page." />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Scenario: Register, login and save titles from basketball page." />
+        <item itemvalue="Cucumber java.Scenario: Register, login and save titles from specific page." />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bafb6b27-e768-407f-a99f-1ed4dea8686e" name="Default Changelist" comment="" />
+      <created>1585648048903</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585648048903</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="49" key="#Plugins" timestamp="1585648654769">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state x="240" y="49" key="#Plugins/0.23.1280.722@0.23.1280.722" timestamp="1585648654769" />
+    <state x="340" y="194" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585648385968">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state x="340" y="194" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.722@0.23.1280.722" timestamp="1585648385968" />
+    <state x="363" y="80" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1585648160800">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state x="363" y="80" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1280.722@0.23.1280.722" timestamp="1585648160800" />
+    <state x="215" y="144" width="915" height="472" key="#xdebugger.evaluate" timestamp="1585733372946">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state x="215" y="144" width="915" height="472" key="#xdebugger.evaluate/0.23.1280.722@0.23.1280.722" timestamp="1585733372946" />
+    <state width="1238" height="179" key="GridCell.Tab.0.bottom" timestamp="1585743065245">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state width="1238" height="179" key="GridCell.Tab.0.bottom/0.23.1280.722@0.23.1280.722" timestamp="1585743065245" />
+    <state width="1238" height="179" key="GridCell.Tab.0.center" timestamp="1585743065244">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state width="1238" height="179" key="GridCell.Tab.0.center/0.23.1280.722@0.23.1280.722" timestamp="1585743065244" />
+    <state width="1238" height="179" key="GridCell.Tab.0.left" timestamp="1585743065243">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state width="1238" height="179" key="GridCell.Tab.0.left/0.23.1280.722@0.23.1280.722" timestamp="1585743065243" />
+    <state width="1238" height="179" key="GridCell.Tab.0.right" timestamp="1585743065244">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state width="1238" height="179" key="GridCell.Tab.0.right/0.23.1280.722@0.23.1280.722" timestamp="1585743065244" />
+    <state width="1238" height="223" key="GridCell.Tab.1.bottom" timestamp="1585733642680">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state width="1238" height="223" key="GridCell.Tab.1.bottom/0.23.1280.722@0.23.1280.722" timestamp="1585733642680" />
+    <state width="1238" height="223" key="GridCell.Tab.1.center" timestamp="1585733642678">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state width="1238" height="223" key="GridCell.Tab.1.center/0.23.1280.722@0.23.1280.722" timestamp="1585733642678" />
+    <state width="1238" height="223" key="GridCell.Tab.1.left" timestamp="1585733642677">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state width="1238" height="223" key="GridCell.Tab.1.left/0.23.1280.722@0.23.1280.722" timestamp="1585733642677" />
+    <state width="1238" height="223" key="GridCell.Tab.1.right" timestamp="1585733642678">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state width="1238" height="223" key="GridCell.Tab.1.right/0.23.1280.722@0.23.1280.722" timestamp="1585733642678" />
+    <state width="640" height="361" key="XDebugger.FullValuePopup" timestamp="1585732639426">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state width="640" height="361" key="XDebugger.FullValuePopup/0.23.1280.722@0.23.1280.722" timestamp="1585732639426" />
+    <state x="317" y="216" key="com.intellij.ide.util.TipDialog" timestamp="1585649022194">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state x="317" y="216" key="com.intellij.ide.util.TipDialog/0.23.1280.722@0.23.1280.722" timestamp="1585649022194" />
+    <state x="397" y="312" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1585663072812">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state x="397" y="312" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.23.1280.722@0.23.1280.722" timestamp="1585663072812" />
+    <state x="305" y="69" width="670" height="676" key="search.everywhere.popup" timestamp="1585657722023">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state x="305" y="69" width="670" height="676" key="search.everywhere.popup/0.23.1280.722@0.23.1280.722" timestamp="1585657722023" />
+  </component>
+</project>
