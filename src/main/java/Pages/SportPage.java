@@ -10,7 +10,7 @@ import org.openqa.selenium.support.PageFactory;
 
 public class SportPage extends BaseUtil {
 
-    @FindBy(how = How.XPATH, using = "/html/body/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/a[2]")
+    @FindBy(how = How.XPATH, using = "//a[@class='headingUrl tch_sport'][contains(text(),'arka')]")
     private WebElement basketballButton;
     private BaseUtil base;
 

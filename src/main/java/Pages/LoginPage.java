@@ -9,7 +9,7 @@ import org.openqa.selenium.support.PageFactory;
 
 public class LoginPage {
 
-    @FindBy(how = How.XPATH, using = "/html/body/div[1]/div[1]/div/div[1]/div[2]/div/div[1]/div[2]/div[2]/div/div/div")
+    @FindBy(how = How.ID, using = "my-signin2")
     private WebElement googleSignInButton;
 
     public LoginPage(WebDriver webDriver) {

@@ -15,7 +15,7 @@ import java.util.List;
 
 public class BasketballPage extends BaseUtil {
 
-    @FindAll({@FindBy(xpath = "/html/body/div[2]/div[2]/div/div[1]/div[2]/div[2]/div/article")})
+    @FindAll({@FindBy(xpath = "//article")})
     private List<WebElement> articles;
     private BaseUtil base;
     private List<String> titleList = new ArrayList<>();

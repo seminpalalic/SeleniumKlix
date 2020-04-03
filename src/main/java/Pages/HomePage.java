@@ -9,9 +9,9 @@ import org.openqa.selenium.support.PageFactory;
 
 public class HomePage {
 
-    @FindBy(how = How.XPATH, using = "/html/body/header/div[1]/div[5]/ul/li[2]/div")
+    @FindBy(how = How.CLASS_NAME, using = "icon_user")
     private WebElement loginButton;
-    @FindBy(how = How.XPATH, using = "/html/body/header/div[1]/nav/ul[1]/li[4]/div/a")
+    @FindBy(how = How.CLASS_NAME, using = "li_sport")
     private WebElement sportButton;
 
     public HomePage(WebDriver webDriver) {
