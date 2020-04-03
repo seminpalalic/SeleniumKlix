@@ -1,16 +1,17 @@
 package Steps;
 
 import Base.BaseUtil;
+import Pages.GoogleEmailPage;
+import Pages.GooglePasswordPage;
+import Pages.HomePage;
+import Pages.LoginPage;
 import cucumber.api.java.en.And;
 import cucumber.api.java.en.Given;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
+
+import java.util.concurrent.TimeUnit;
 
 public class RegisterAndLoginStep extends BaseUtil {
 
-    public String winHandleBefore;
     private BaseUtil base;
 
     public RegisterAndLoginStep(BaseUtil base) {
@@ -23,52 +24,42 @@ public class RegisterAndLoginStep extends BaseUtil {
     }
 
     @And("^I navigate to the register page$")
-    public void iNavigateToTheRegisterPage() {
-        WebDriverWait wait = new WebDriverWait(webDriver, 100);
-        WebElement element = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//*[@id=\"kat_naslovnica\"]/header/div[1]/div[5]/ul/li[2]/div/a/i")));
-        element.click();
+    public void iNavigateToTheRegisterPage() throws InterruptedException {
+        HomePage homePage = new HomePage(webDriver);
+        homePage.clickLoginButton();
+        TimeUnit.SECONDS.sleep(2);
     }
 
     @And("^I click on google sign$")
     public void iClickOnGoogleSign() {
-        WebDriverWait wait = new WebDriverWait(webDriver, 100);
-        WebElement element = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//*[@id=\"my-signin2\"]/div/div")));
-        element.click();
+        LoginPage loginPage = new LoginPage(webDriver);
+        loginPage.clickOnGoogleSignInButton();
     }
 
     @And("^I enter my gmail email as \"([^\"]*)\"$")
     public void iEnterMyGmailEmailAs(String email) {
-
-        winHandleBefore = webDriver.getWindowHandle();
-        for (String winHandle : webDriver.getWindowHandles()) {
-            webDriver.switchTo().window(winHandle);
-        }
-        WebDriverWait wait = new WebDriverWait(webDriver, 100);
-        WebElement element = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//*[@id=\"identifierId\"]")));
-        element.sendKeys(email);
-        //webDriver.findElement(By.xpath("//*[@id=\"identifierId\"]")).sendKeys(email);
-
+        GoogleEmailPage googleEmailPage = new GoogleEmailPage(webDriver);
+        googleEmailPage.switchToTheGoogleSignInWindow();
+        googleEmailPage.enterEmail(email);
     }
 
     @And("^I click on the next button on email page$")
     public void iClickOnTheNextButtonOnEmailPage() {
-        WebDriverWait wait = new WebDriverWait(webDriver, 100);
-        WebElement element = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//*[@id=\"identifierNext\"]")));
-        element.click();
+        GoogleEmailPage googleEmailPage = new GoogleEmailPage(webDriver);
+        googleEmailPage.clickOnTheNextButton();
     }
 
     @And("^I enter password as \"([^\"]*)\"$")
     public void iEnterPasswordAs(String password) {
-        WebDriverWait wait = new WebDriverWait(webDriver, 100);
-        WebElement element = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//*[@id=\"password\"]/div[1]/div/div[1]/input")));
-        element.sendKeys(password);
+        GooglePasswordPage googlePasswordPage = new GooglePasswordPage(webDriver);
+        googlePasswordPage.enterPassword(password);
     }
 
     @And("^I click on the next button on password page$")
-    public void iClickOnTheNextButtonOnPasswordPage() {
-        WebDriverWait wait = new WebDriverWait(webDriver, 100);
-        WebElement element = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//*[@id=\"passwordNext\"]/span")));
-        element.click();
-        webDriver.switchTo().window(winHandleBefore);
+    public void iClickOnTheNextButtonOnPasswordPage() throws InterruptedException {
+        GooglePasswordPage googlePasswordPage = new GooglePasswordPage(webDriver);
+        googlePasswordPage.clickOnTheNextButton();
+        googlePasswordPage.switchToTheHomePageWindow();
+        TimeUnit.SECONDS.sleep(5);
     }
 }

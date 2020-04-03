@@ -9,7 +9,7 @@ public class Hook extends BaseUtil {
 
     private BaseUtil base;
 
-    public Hook(BaseUtil base){
+    public Hook(BaseUtil base) {
         this.base = base;
     }
 
@@ -17,9 +17,7 @@ public class Hook extends BaseUtil {
     public void Initialize() {
 
         System.setProperty("webdriver.chrome.driver", "/Users/semin.palalic/Desktop/chromedriver");
-        //System.setProperty("apiKey", "401b3e7cb096b0d20e1ff33226e2551a");
-        //System.setProperty("googleKey", "6Lc_kYwUAAAAANuWMnAnP6pMKlkChb888UuRayO2");
-        //System.setProperty("pageUrl", "https://www.klix.ba/registracija?invisible=false");
+        System.setProperty("java.net.preferIPv4Stack", "true");
         webDriver = new ChromeDriver();
 
     }
