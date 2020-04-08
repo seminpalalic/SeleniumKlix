@@ -2,6 +2,7 @@ package Pages;
 
 import Base.BaseUtil;
 import Transformation.Wait;
+import io.qameta.allure.Step;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -24,6 +25,7 @@ public class GoogleEmailPage extends BaseUtil {
         this.base = base;
     }
 
+    @Step("Switch to the google sign in window")
     public void switchToTheGoogleSignInWindow() {
         winHandleBefore = webDriver.getWindowHandle();
         for (String winHandle : webDriver.getWindowHandles()) {
@@ -31,10 +33,12 @@ public class GoogleEmailPage extends BaseUtil {
         }
     }
 
+    @Step("Enter email: {0}")
     public void enterEmail(String email) {
         Wait.waitAndWrite(emailInput, email);//emailInput.sendKeys(email);
     }
 
+    @Step("Click on the next button")
     public void clickOnTheNextButton() {
         Wait.waitAndClick(nextButton);
     }

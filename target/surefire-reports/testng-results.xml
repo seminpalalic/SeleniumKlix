@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-04-08T13:57:22Z" name="Klix.ba test" finished-at="2020-04-08T13:58:02Z" duration-ms="39953">
+    <groups>
+    </groups>
+    <test started-at="2020-04-08T13:57:22Z" name="Register, Login and Save data" finished-at="2020-04-08T13:58:02Z" duration-ms="39953">
+      <class name="Steps.LoginAndSaveDataStep">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:Steps.LoginAndSaveDataStep@5965844d]" started-at="2020-04-08T13:57:22Z" name="initialize" finished-at="2020-04-08T13:57:26Z" duration-ms="4003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="iOpenThePage()[pri:1, instance:Steps.LoginAndSaveDataStep@5965844d]" started-at="2020-04-08T13:57:26Z" name="iOpenThePage" finished-at="2020-04-08T13:57:33Z" duration-ms="7619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iOpenThePage -->
+        <test-method signature="iNavigateToTheRegisterPage()[pri:2, instance:Steps.LoginAndSaveDataStep@5965844d]" started-at="2020-04-08T13:57:34Z" name="iNavigateToTheRegisterPage" finished-at="2020-04-08T13:57:39Z" duration-ms="4972" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iNavigateToTheRegisterPage -->
+        <test-method signature="iClickOnGoogleSign()[pri:3, instance:Steps.LoginAndSaveDataStep@5965844d]" started-at="2020-04-08T13:57:39Z" name="iClickOnGoogleSign" finished-at="2020-04-08T13:57:41Z" duration-ms="1795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iClickOnGoogleSign -->
+        <test-method signature="iEnterMyGmailEmailAs(java.lang.String)[pri:4, instance:Steps.LoginAndSaveDataStep@5965844d]" started-at="2020-04-08T13:57:41Z" name="iEnterMyGmailEmailAs" finished-at="2020-04-08T13:57:43Z" duration-ms="2338" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[semin.klika@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iEnterMyGmailEmailAs -->
+        <test-method signature="iClickOnTheNextButtonOnEmailPage()[pri:5, instance:Steps.LoginAndSaveDataStep@5965844d]" started-at="2020-04-08T13:57:43Z" name="iClickOnTheNextButtonOnEmailPage" finished-at="2020-04-08T13:57:43Z" duration-ms="352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iClickOnTheNextButtonOnEmailPage -->
+        <test-method signature="iEnterPasswordAs(java.lang.String)[pri:6, instance:Steps.LoginAndSaveDataStep@5965844d]" started-at="2020-04-08T13:57:43Z" name="iEnterPasswordAs" finished-at="2020-04-08T13:57:45Z" duration-ms="1458" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[KlikaTest]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iEnterPasswordAs -->
+        <test-method signature="iClickOnTheNextButtonOnPasswordPage()[pri:7, instance:Steps.LoginAndSaveDataStep@5965844d]" started-at="2020-04-08T13:57:45Z" name="iClickOnTheNextButtonOnPasswordPage" finished-at="2020-04-08T13:57:50Z" duration-ms="5224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iClickOnTheNextButtonOnPasswordPage -->
+        <test-method signature="iEnterToTheSportPage()[pri:8, instance:Steps.LoginAndSaveDataStep@5965844d]" started-at="2020-04-08T13:57:50Z" name="iEnterToTheSportPage" finished-at="2020-04-08T13:57:54Z" duration-ms="3473" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iEnterToTheSportPage -->
+        <test-method signature="iEnterToTheBasketballPage()[pri:9, instance:Steps.LoginAndSaveDataStep@5965844d]" started-at="2020-04-08T13:57:54Z" name="iEnterToTheBasketballPage" finished-at="2020-04-08T13:57:59Z" duration-ms="5026" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iEnterToTheBasketballPage -->
+        <test-method signature="iGetAllTitlesOfArticlesAndSaveThemToTheDocument()[pri:10, instance:Steps.LoginAndSaveDataStep@5965844d]" started-at="2020-04-08T13:57:59Z" name="iGetAllTitlesOfArticlesAndSaveThemToTheDocument" finished-at="2020-04-08T13:58:02Z" duration-ms="2511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iGetAllTitlesOfArticlesAndSaveThemToTheDocument -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Steps.LoginAndSaveDataStep@5965844d]" started-at="2020-04-08T13:58:02Z" name="tearDown" finished-at="2020-04-08T13:58:02Z" duration-ms="241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Steps.LoginAndSaveDataStep -->
+    </test> <!-- Register, Login and Save data -->
+  </suite> <!-- Klix.ba test -->
+</testng-results>

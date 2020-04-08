@@ -2,6 +2,7 @@ package Pages;
 
 import Base.BaseUtil;
 import Transformation.Wait;
+import io.qameta.allure.Step;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -24,14 +25,17 @@ public class GooglePasswordPage extends BaseUtil {
         this.base = base;
     }
 
+    @Step("Enter password: {0}")
     public void enterPassword(String password) {
         Wait.waitAndWrite(passwordInput, password);
     }
 
+    @Step("Click on the next button")
     public void clickOnTheNextButton() {
         Wait.waitAndClick(nextButton);
     }
 
+    @Step("Switch to the home page window")
     public void switchToTheHomePageWindow() {
         webDriver.switchTo().window(winHandleBefore);
     }

@@ -2,6 +2,7 @@ package Pages;
 
 import Base.BaseUtil;
 import Transformation.SaveData;
+import io.qameta.allure.Step;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -29,6 +30,7 @@ public class BasketballPage extends BaseUtil {
         this.base = base;
     }
 
+    @Step("Collect all titles")
     private void collectAllTitles() {
         for (WebElement we : articles) {
             String title = we.findElement(By.cssSelector("h1")).getText();
@@ -36,6 +38,7 @@ public class BasketballPage extends BaseUtil {
         }
     }
 
+    @Step("Collect all titles with word 'koronavirus'")
     private void collectAllTitlesWithWordKorona() {
         for (WebElement we : articles) {
             String title = we.findElement(By.cssSelector("h1")).getText();
@@ -45,11 +48,13 @@ public class BasketballPage extends BaseUtil {
         }
     }
 
+    @Step("Save all titles")
     public void saveAllTitles() throws IOException {
         collectAllTitles();
         SaveData.SaveToFile("Svi naslovi", titleList);
     }
 
+    @Step("Save all titles with word 'koronavirus'")
     public void saveAllTitlesWithWordKorona() throws IOException {
         collectAllTitlesWithWordKorona();
         SaveData.SaveToFile("Svi naslovi sa koronavirus", titleListWithKorona);

@@ -7,6 +7,7 @@ import Pages.HomePage;
 import Pages.LoginPage;
 import cucumber.api.java.en.And;
 import cucumber.api.java.en.Given;
+import org.testng.annotations.Test;
 
 import java.util.concurrent.TimeUnit;
 
@@ -18,6 +19,7 @@ public class RegisterAndLoginStep extends BaseUtil {
         this.base = base;
     }
 
+    /*
     @Given("^I open the page$")
     public void iOpenThePage() {
         webDriver.get("https://www.klix.ba");
@@ -62,4 +64,5 @@ public class RegisterAndLoginStep extends BaseUtil {
         googlePasswordPage.switchToTheHomePageWindow();
         TimeUnit.SECONDS.sleep(5);
     }
+     */
 }

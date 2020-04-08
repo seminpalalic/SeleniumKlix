@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Klix.ba test">
+    <test name="Register, Login and Save data">
+        <parameter name="email" value="semin.klika@gmail.com"/>
+        <parameter name="password" value="KlikaTest"/>
+        <classes>
+            <class name="Steps.LoginAndSaveDataStep"></class>
+        </classes>
+    </test>
+</suite>

@@ -2,17 +2,91 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bafb6b27-e768-407f-a99f-1ed4dea8686e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_relevantcodes_extentreports_2_41_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_qameta_allure_allure_java_commons_2_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_qameta_allure_allure_model_2_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_qameta_allure_allure_testng_2_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_jcip_jcip_annotations_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_neko_htmlunit_2_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_extras_beanshell_bsh_2_0b6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tika_tika_core_1_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jooq_joor_java_8_0_9_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_htmlunit_driver_2_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_jetty_repacked_9_2_13_v20160825.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_server_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_14_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_sqlite_jdbc_3_8_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ru_yandex_qatools_ashot_ashot_1_5_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_serializer_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_xalan_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0cd69b95-b187-4c9e-b45a-b21cb1c7d25f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0ed9da7a-2498-439b-9b53-997e17e63fe9-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/20715e06-7658-429e-b0f3-984992dd82fa-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3260cf58-4420-48d6-816d-ffbf52744c04-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/42ed33d2-3b59-4d67-b85f-7f3fc6c7b1a4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5122bf63-c5d6-43d4-b16c-dda042dd27fd-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5b990257-17a0-44a8-9b97-9d2f57379ecf-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/aeb8aa6b-942b-4a62-8d6b-e2a4f4ee3262-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/af663ca5-aa1b-420f-86f7-86b736ca8b46-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c115155d-2c11-48a8-bb6f-f134c5cfb05e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f3b8242e-37b3-43e6-9195-ebc4f6b8c618-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fad6b3d0-e940-4c5b-8e1e-20274ab40c97-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fdccf6d6-c1a4-48cb-97bc-1f0dbf58314b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Steps/LoginAndSaveDataStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KlixSemin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/KlixSemin.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Files/Svi naslovi sa koronavirus.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Files/Svi naslovi sa koronavirus.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Files/Svi naslovi.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Files/Svi naslovi.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Pages/BasketballPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pages/BasketballPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Pages/GoogleEmailPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pages/GoogleEmailPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Pages/GooglePasswordPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pages/GooglePasswordPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pages/HomePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pages/LoginPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Pages/SportPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pages/SportPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Steps/RegisterAndLoginStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Steps/RegisterAndLoginStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Steps/SaveStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Steps/SaveStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Base/BaseUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Base/BaseUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/KlixSemin.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Pages/BasketballPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/BasketballPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Pages/GoogleEmailPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/GoogleEmailPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Pages/GooglePasswordPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/GooglePasswordPage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/HomePage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/LoginPage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Pages/SportPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/SportPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Steps/Hook.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Steps/Hook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Steps/RegisterAndLoginStep.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Steps/RegisterAndLoginStep.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Steps/SaveStep.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Steps/SaveStep.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Transformation/SaveData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Transformation/SaveData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Transformation/Wait.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Transformation/Wait.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/KlixSemin.kotlin_module" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +94,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FavoritesManager">
-    <favorites_list name="KlixSemin" />
+    <favorites_list name="KlixSemin">
+      <favorite_root url="Steps.KlixHomePageTest" module="KlixSemin" type="class" klass="com.intellij.ide.favoritesTreeView.smartPointerPsiNodes.ClassSmartPointerNode" />
+    </favorites_list>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -40,16 +116,19 @@
     </option>
   </component>
   <component name="ProjectId" id="1ZtAWVvdryjUeJJZOv4gXrd3kpx" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Gherkin" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="XML&#10;Gherkin" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -60,7 +139,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/Features" />
     </key>
   </component>
-  <component name="RunManager" selected="Cucumber java.Scenario: Register, login and save titles from basketball page. (1)">
+  <component name="RunManager" selected="Maven.KlixSemin [clean,install]">
     <configuration name="Scenario: Register, login and save titles from basketball page. (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="1.2" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/java/Features/loginAndSaveKlixTitles.feature" />
@@ -118,9 +197,80 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="KlixSemin [clean,install]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="FirstTestCase" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="KlixSemin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Steps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Steps" />
+      <option name="MAIN_CLASS_NAME" value="Steps.FirstTestCase" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstTestCase.setup" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="KlixSemin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Steps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Steps" />
+      <option name="MAIN_CLASS_NAME" value="Steps.FirstTestCase" />
+      <option name="METHOD_NAME" value="setup" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber java.Scenario: Register, login and save titles from basketball page." />
+      <item itemvalue="Cucumber java.Scenario: Register, login and save titles from basketball page. (1)" />
+      <item itemvalue="Cucumber java.Scenario: Register, login and save titles from specific page." />
+      <item itemvalue="Maven.KlixSemin [clean,install]" />
+      <item itemvalue="TestNG.FirstTestCase" />
+      <item itemvalue="TestNG.FirstTestCase.setup" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Cucumber java.Scenario: Register, login and save titles from basketball page. (1)" />
+        <item itemvalue="TestNG.FirstTestCase" />
+        <item itemvalue="TestNG.FirstTestCase.setup" />
         <item itemvalue="Cucumber java.Scenario: Register, login and save titles from basketball page." />
         <item itemvalue="Cucumber java.Scenario: Register, login and save titles from specific page." />
       </list>
@@ -139,100 +289,122 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="240" y="49" key="#Plugins" timestamp="1585648654769">
-      <screen x="0" y="23" width="1280" height="722" />
+    <state x="240" y="49" key="#Plugins" timestamp="1586275982184">
+      <screen x="0" y="23" width="1280" height="726" />
     </state>
     <state x="240" y="49" key="#Plugins/0.23.1280.722@0.23.1280.722" timestamp="1585648654769" />
-    <state x="104" y="46" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585905903678">
-      <screen x="0" y="23" width="1280" height="724" />
+    <state x="240" y="49" key="#Plugins/0.23.1280.726@0.23.1280.726" timestamp="1586275982184" />
+    <state x="104" y="46" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586277154482">
+      <screen x="0" y="23" width="1280" height="726" />
     </state>
     <state x="104" y="46" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.724@0.23.1280.724" timestamp="1585905903678" />
+    <state x="104" y="46" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.726@0.23.1280.726" timestamp="1586277154482" />
     <state x="340" y="194" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585648385968">
       <screen x="0" y="23" width="1280" height="722" />
     </state>
     <state x="340" y="194" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.722@0.23.1280.722" timestamp="1585648385968" />
-    <state x="363" y="80" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1585648160800">
-      <screen x="0" y="23" width="1280" height="722" />
+    <state x="377" y="167" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1586276538557">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="377" y="167" key="#com.intellij.ide.util.PackageChooserDialog/0.23.1280.726@0.23.1280.726" timestamp="1586276538557" />
+    <state x="377" y="175" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586276524654">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="377" y="175" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1280.726@0.23.1280.726" timestamp="1586276524654" />
+    <state x="363" y="80" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1586276342711">
+      <screen x="0" y="23" width="1280" height="726" />
     </state>
     <state x="363" y="80" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1280.722@0.23.1280.722" timestamp="1585648160800" />
+    <state x="363" y="80" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1280.726@0.23.1280.726" timestamp="1586276342711" />
     <state x="215" y="145" width="915" height="472" key="#xdebugger.evaluate" timestamp="1585918820241">
       <screen x="0" y="23" width="1280" height="726" />
     </state>
     <state x="215" y="144" width="915" height="472" key="#xdebugger.evaluate/0.23.1280.722@0.23.1280.722" timestamp="1585733372946" />
     <state x="215" y="145" key="#xdebugger.evaluate/0.23.1280.726@0.23.1280.726" timestamp="1585918820241" />
-    <state width="1238" height="179" key="GridCell.Tab.0.bottom" timestamp="1585919910998">
-      <screen x="0" y="23" width="1280" height="723" />
+    <state width="1238" height="180" key="GridCell.Tab.0.bottom" timestamp="1586354328282">
+      <screen x="0" y="23" width="1280" height="726" />
     </state>
     <state width="1238" height="179" key="GridCell.Tab.0.bottom/0.23.1280.722@0.23.1280.722" timestamp="1585749069391" />
     <state width="1238" height="179" key="GridCell.Tab.0.bottom/0.23.1280.723@0.23.1280.723" timestamp="1585919910998" />
     <state width="1238" height="223" key="GridCell.Tab.0.bottom/0.23.1280.724@0.23.1280.724" timestamp="1585918874195" />
-    <state width="1238" height="179" key="GridCell.Tab.0.bottom/0.23.1280.726@0.23.1280.726" timestamp="1585910065149" />
+    <state width="1238" height="180" key="GridCell.Tab.0.bottom/0.23.1280.726@0.23.1280.726" timestamp="1586354328282" />
+    <state width="1238" height="180" key="GridCell.Tab.0.bottom/0.23.1280.727@0.23.1280.727" timestamp="1586279426572" />
     <state width="1238" height="179" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1585839319138" />
     <state width="1238" height="179" key="GridCell.Tab.0.bottom/0.23.1280.729@0.23.1280.729" timestamp="1585838665348" />
     <state width="1238" height="179" key="GridCell.Tab.0.bottom/0.23.1280.730@0.23.1280.730" timestamp="1585838756489" />
     <state width="1238" height="179" key="GridCell.Tab.0.bottom/0.23.1280.732@0.23.1280.732" timestamp="1585836470425" />
-    <state width="1238" height="179" key="GridCell.Tab.0.center" timestamp="1585919910997">
-      <screen x="0" y="23" width="1280" height="723" />
+    <state width="1238" height="180" key="GridCell.Tab.0.center" timestamp="1586354328281">
+      <screen x="0" y="23" width="1280" height="726" />
     </state>
     <state width="1238" height="179" key="GridCell.Tab.0.center/0.23.1280.722@0.23.1280.722" timestamp="1585749069390" />
     <state width="1238" height="179" key="GridCell.Tab.0.center/0.23.1280.723@0.23.1280.723" timestamp="1585919910997" />
     <state width="1238" height="223" key="GridCell.Tab.0.center/0.23.1280.724@0.23.1280.724" timestamp="1585918874195" />
-    <state width="1238" height="179" key="GridCell.Tab.0.center/0.23.1280.726@0.23.1280.726" timestamp="1585910065148" />
+    <state width="1238" height="180" key="GridCell.Tab.0.center/0.23.1280.726@0.23.1280.726" timestamp="1586354328281" />
+    <state width="1238" height="180" key="GridCell.Tab.0.center/0.23.1280.727@0.23.1280.727" timestamp="1586279426571" />
     <state width="1238" height="179" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1585839319138" />
     <state width="1238" height="179" key="GridCell.Tab.0.center/0.23.1280.729@0.23.1280.729" timestamp="1585838665346" />
     <state width="1238" height="179" key="GridCell.Tab.0.center/0.23.1280.730@0.23.1280.730" timestamp="1585838756488" />
     <state width="1238" height="179" key="GridCell.Tab.0.center/0.23.1280.732@0.23.1280.732" timestamp="1585836470424" />
-    <state width="1238" height="179" key="GridCell.Tab.0.left" timestamp="1585919910996">
-      <screen x="0" y="23" width="1280" height="723" />
+    <state width="1238" height="180" key="GridCell.Tab.0.left" timestamp="1586354328280">
+      <screen x="0" y="23" width="1280" height="726" />
     </state>
     <state width="1238" height="179" key="GridCell.Tab.0.left/0.23.1280.722@0.23.1280.722" timestamp="1585749069390" />
     <state width="1238" height="179" key="GridCell.Tab.0.left/0.23.1280.723@0.23.1280.723" timestamp="1585919910996" />
     <state width="1238" height="223" key="GridCell.Tab.0.left/0.23.1280.724@0.23.1280.724" timestamp="1585918874193" />
-    <state width="1238" height="179" key="GridCell.Tab.0.left/0.23.1280.726@0.23.1280.726" timestamp="1585910065147" />
+    <state width="1238" height="180" key="GridCell.Tab.0.left/0.23.1280.726@0.23.1280.726" timestamp="1586354328280" />
+    <state width="1238" height="180" key="GridCell.Tab.0.left/0.23.1280.727@0.23.1280.727" timestamp="1586279426570" />
     <state width="1238" height="179" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1585839319137" />
     <state width="1238" height="179" key="GridCell.Tab.0.left/0.23.1280.729@0.23.1280.729" timestamp="1585838665344" />
     <state width="1238" height="179" key="GridCell.Tab.0.left/0.23.1280.730@0.23.1280.730" timestamp="1585838756488" />
     <state width="1238" height="179" key="GridCell.Tab.0.left/0.23.1280.732@0.23.1280.732" timestamp="1585836470423" />
-    <state width="1238" height="179" key="GridCell.Tab.0.right" timestamp="1585919910997">
-      <screen x="0" y="23" width="1280" height="723" />
+    <state width="1238" height="180" key="GridCell.Tab.0.right" timestamp="1586354328281">
+      <screen x="0" y="23" width="1280" height="726" />
     </state>
     <state width="1238" height="179" key="GridCell.Tab.0.right/0.23.1280.722@0.23.1280.722" timestamp="1585749069391" />
     <state width="1238" height="179" key="GridCell.Tab.0.right/0.23.1280.723@0.23.1280.723" timestamp="1585919910997" />
     <state width="1238" height="223" key="GridCell.Tab.0.right/0.23.1280.724@0.23.1280.724" timestamp="1585918874195" />
-    <state width="1238" height="179" key="GridCell.Tab.0.right/0.23.1280.726@0.23.1280.726" timestamp="1585910065148" />
+    <state width="1238" height="180" key="GridCell.Tab.0.right/0.23.1280.726@0.23.1280.726" timestamp="1586354328281" />
+    <state width="1238" height="180" key="GridCell.Tab.0.right/0.23.1280.727@0.23.1280.727" timestamp="1586279426571" />
     <state width="1238" height="179" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1585839319138" />
     <state width="1238" height="179" key="GridCell.Tab.0.right/0.23.1280.729@0.23.1280.729" timestamp="1585838665347" />
     <state width="1238" height="179" key="GridCell.Tab.0.right/0.23.1280.730@0.23.1280.730" timestamp="1585838756489" />
     <state width="1238" height="179" key="GridCell.Tab.0.right/0.23.1280.732@0.23.1280.732" timestamp="1585836470424" />
-    <state width="1238" height="223" key="GridCell.Tab.1.bottom" timestamp="1585918874197">
-      <screen x="0" y="23" width="1280" height="724" />
+    <state width="1238" height="224" key="GridCell.Tab.1.bottom" timestamp="1586349565591">
+      <screen x="0" y="23" width="1280" height="726" />
     </state>
     <state width="1238" height="223" key="GridCell.Tab.1.bottom/0.23.1280.722@0.23.1280.722" timestamp="1585733642680" />
     <state width="1238" height="223" key="GridCell.Tab.1.bottom/0.23.1280.724@0.23.1280.724" timestamp="1585918874197" />
-    <state width="1238" height="223" key="GridCell.Tab.1.bottom/0.23.1280.726@0.23.1280.726" timestamp="1585918767648" />
+    <state width="1238" height="224" key="GridCell.Tab.1.bottom/0.23.1280.726@0.23.1280.726" timestamp="1586349565591" />
     <state width="1238" height="223" key="GridCell.Tab.1.bottom/0.23.1280.729@0.23.1280.729" timestamp="1585834730461" />
-    <state width="1238" height="223" key="GridCell.Tab.1.center" timestamp="1585918874196">
-      <screen x="0" y="23" width="1280" height="724" />
+    <state width="1238" height="224" key="GridCell.Tab.1.center" timestamp="1586349565591">
+      <screen x="0" y="23" width="1280" height="726" />
     </state>
     <state width="1238" height="223" key="GridCell.Tab.1.center/0.23.1280.722@0.23.1280.722" timestamp="1585733642678" />
     <state width="1238" height="223" key="GridCell.Tab.1.center/0.23.1280.724@0.23.1280.724" timestamp="1585918874196" />
-    <state width="1238" height="223" key="GridCell.Tab.1.center/0.23.1280.726@0.23.1280.726" timestamp="1585918767647" />
+    <state width="1238" height="224" key="GridCell.Tab.1.center/0.23.1280.726@0.23.1280.726" timestamp="1586349565591" />
     <state width="1238" height="223" key="GridCell.Tab.1.center/0.23.1280.729@0.23.1280.729" timestamp="1585834730460" />
-    <state width="1238" height="223" key="GridCell.Tab.1.left" timestamp="1585918874196">
-      <screen x="0" y="23" width="1280" height="724" />
+    <state width="1238" height="224" key="GridCell.Tab.1.left" timestamp="1586349565590">
+      <screen x="0" y="23" width="1280" height="726" />
     </state>
     <state width="1238" height="223" key="GridCell.Tab.1.left/0.23.1280.722@0.23.1280.722" timestamp="1585733642677" />
     <state width="1238" height="223" key="GridCell.Tab.1.left/0.23.1280.724@0.23.1280.724" timestamp="1585918874196" />
-    <state width="1238" height="223" key="GridCell.Tab.1.left/0.23.1280.726@0.23.1280.726" timestamp="1585918767647" />
+    <state width="1238" height="224" key="GridCell.Tab.1.left/0.23.1280.726@0.23.1280.726" timestamp="1586349565590" />
     <state width="1238" height="223" key="GridCell.Tab.1.left/0.23.1280.729@0.23.1280.729" timestamp="1585834730459" />
-    <state width="1238" height="223" key="GridCell.Tab.1.right" timestamp="1585918874196">
-      <screen x="0" y="23" width="1280" height="724" />
+    <state width="1238" height="224" key="GridCell.Tab.1.right" timestamp="1586349565591">
+      <screen x="0" y="23" width="1280" height="726" />
     </state>
     <state width="1238" height="223" key="GridCell.Tab.1.right/0.23.1280.722@0.23.1280.722" timestamp="1585733642678" />
     <state width="1238" height="223" key="GridCell.Tab.1.right/0.23.1280.724@0.23.1280.724" timestamp="1585918874196" />
-    <state width="1238" height="223" key="GridCell.Tab.1.right/0.23.1280.726@0.23.1280.726" timestamp="1585918767648" />
+    <state width="1238" height="224" key="GridCell.Tab.1.right/0.23.1280.726@0.23.1280.726" timestamp="1586349565591" />
     <state width="1238" height="223" key="GridCell.Tab.1.right/0.23.1280.729@0.23.1280.729" timestamp="1585834730460" />
+    <state x="178" y="48" key="Maven.ArtifactSearchDialog" timestamp="1586352520909">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="178" y="48" key="Maven.ArtifactSearchDialog/0.23.1280.726@0.23.1280.726" timestamp="1586352520909" />
     <state width="640" height="361" key="XDebugger.FullValuePopup" timestamp="1585732639426">
       <screen x="0" y="23" width="1280" height="722" />
     </state>
@@ -245,9 +417,10 @@
       <screen x="0" y="23" width="1280" height="722" />
     </state>
     <state x="397" y="312" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.23.1280.722@0.23.1280.722" timestamp="1585663072812" />
-    <state x="305" y="69" width="670" height="676" key="search.everywhere.popup" timestamp="1585657722023">
-      <screen x="0" y="23" width="1280" height="722" />
+    <state x="305" y="69" width="670" height="680" key="search.everywhere.popup" timestamp="1586275971521">
+      <screen x="0" y="23" width="1280" height="726" />
     </state>
     <state x="305" y="69" width="670" height="676" key="search.everywhere.popup/0.23.1280.722@0.23.1280.722" timestamp="1585657722023" />
+    <state x="305" y="69" width="670" height="680" key="search.everywhere.popup/0.23.1280.726@0.23.1280.726" timestamp="1586275971521" />
   </component>
 </project>

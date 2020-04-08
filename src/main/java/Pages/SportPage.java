@@ -2,6 +2,7 @@ package Pages;
 
 import Base.BaseUtil;
 import Transformation.Wait;
+import io.qameta.allure.Step;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -22,6 +23,7 @@ public class SportPage extends BaseUtil {
         this.base = base;
     }
 
+    @Step("Click on the basketball button")
     public void clickOnBasketballButton() {
         Wait.waitAndClick(basketballButton);
     }

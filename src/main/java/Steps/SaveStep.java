@@ -16,6 +16,7 @@ public class SaveStep extends BaseUtil {
         this.base = base;
     }
 
+    /*
     @And("^I enter to the sport page$")
     public void iEnterToTheSportPage() {
         HomePage homePage = new HomePage(webDriver);
@@ -34,4 +35,5 @@ public class SaveStep extends BaseUtil {
         basketballPage.saveAllTitles();
         basketballPage.saveAllTitlesWithWordKorona();
     }
+     */
 }
