@@ -28,3 +28,8 @@ For Google Chrome you can download from the page in description.
 https://chromedriver.chromium.org/downloads
 
 Next step is just to run the application. To do that just right click on klix.feature file and click on the "Run Feature: Klix" 
+
+# Run allure reporting 
+To run allue reporting you need to configure Run/Debug Configuration. Click on "Edit Configurations" and add new maven configuration. In command line write "clean install" and run configuration. 
+
+In terminal write "allure serve allure-results" to see results.
